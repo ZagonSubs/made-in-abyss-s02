@@ -20,4 +20,8 @@ Y sí, Vodes tiene typesetting adicional al de MTBB.
 
 ---
 
+Última versión de los subs disponible en [releases](https://github.com/ZagonSubs/made-in-abyss-s02/releases/) (v2.0 Blu-ray).
+
+---
+
 **TODO:** Nada. Versión final :)
